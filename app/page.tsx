@@ -337,7 +337,7 @@ export default function Home() {
                     />
                     <SocialIcon
                       icon={<Linkedin size={20} />}
-                      href="www.linkedin.com/in/shubham-kumar-885411265"
+                      href="https://www.linkedin.com/in/shubham-kumar-885411265/"
                       label="LinkedIn"
                     />
                     <SocialIcon
